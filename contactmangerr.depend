@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1694538415 source:c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\main.cpp
+	<iostream>
+	"ContactBook.h"
+	"Phone.h"
+	<string>
+
+1694538415 c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\include\contactbook.h
+	"Phone.h"
+	"Contact.h"
+
+1685633771 c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\include\phone.h
+	<string>
+
+1684516609 c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\include\contact.h
+	<string>
+	"Phone.h"
+
+1685633771 source:c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\src\phone.cpp
+	"Phone.h"
+	<iostream>
+
+1694538650 source:c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\src\contact.cpp
+	"Contact.h"
+	<iostream>
+
+1694538415 source:c:\users\ram\desktop\task_dr_mahmoud\discreat math\contactmangerr\src\contactbook.cpp
+	"ContactBook.h"
+	<iostream>
+
+1694538415 source:c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\main.cpp
+	<iostream>
+	"ContactBook.h"
+	"Phone.h"
+	<string>
+
+1694538415 c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\include\contactbook.h
+	"Phone.h"
+	"Contact.h"
+
+1685633771 c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\include\phone.h
+	<string>
+
+1684516609 c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\include\contact.h
+	<string>
+	"Phone.h"
+
+1694538650 source:c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\src\contact.cpp
+	"Contact.h"
+	<iostream>
+
+1694538415 source:c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\src\contactbook.cpp
+	"ContactBook.h"
+	<iostream>
+
+1685633771 source:c:\users\01287\desktop\task_dr_mahmoud\discreat math\contactmangerr\src\phone.cpp
+	"Phone.h"
+	<iostream>
+
